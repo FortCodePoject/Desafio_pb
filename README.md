@@ -11,7 +11,6 @@
 | Detalhe       | Informação                           |
 |---------------|--------------------------------------|
 | **Data**      | 11/06/2025                           |
-| **Hora**      | 13:30                                |
 | **Local**     | Condomínio TSE, villa 17 (frente à academia Bai) |
 
 ---
